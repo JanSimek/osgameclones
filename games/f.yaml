@@ -96,10 +96,28 @@
   video:
     youtube: 3MVMJkOYHSg
 
+- name: Fallout 2 Community Edition
+  originals:
+  - Fallout 2
+  type: remake
+  repo: https://github.com/alexbatalov/fallout2-ce
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - Custom
+  updated: 2022-07-18
+
 - name: Falltergeist
   development: active
   langs:
   - C++
+  frameworks:
+  - SDL
   licenses:
   - GPL3
   content: commercial
@@ -109,7 +127,7 @@
   status: unplayable
   type: remake
   url: https://falltergeist.org/
-  updated: 2019-11-20
+  updated: 2022-07-15
 
 - name: Fanwor
   frameworks:
